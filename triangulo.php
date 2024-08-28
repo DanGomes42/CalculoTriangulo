@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Calculadora da Área do Triângulo</h1>
-    <form action="triangulo.php" method="post">
+    <form method="post">
         <label for="base">Base:</label>
         <input type="number" id="base" name="base" required>
         <br>
